@@ -34,7 +34,7 @@ You can see my design below 😊.
 ### Links
 
 - Solution URL: checkout my solution on [Frontend mentor]()
-- Live Site URL: checkout my live site [here]()
+- Live Site URL: checkout my live site [here](https://results-summary-component-main-lake-seven.vercel.app/)
 
 ## My process
 For this challenge I decided to test out bootstrap first I had imported bootstrap in HTML as a link but then later I came across CSS `@layer` feature and learned it was a nice way to overwrite the default bootstrap style. Then I learned to import bootstrap into CSS with `@import` and put it in a layer named framework and gave it a low specificity. Feel free to go through my code to see more.
