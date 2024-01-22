@@ -28,8 +28,8 @@ Users should be able to:
 ### Screenshot
 You can see my design below 😊.
 
-![](assets/images/desktop-design.png)
-![](assets/images/mobile-design.png)
+![](./desktop-design.png)
+![](./mobile-design.png)
 
 ### Links
 
